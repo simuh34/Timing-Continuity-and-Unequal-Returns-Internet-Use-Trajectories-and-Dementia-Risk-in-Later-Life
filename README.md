@@ -8,6 +8,6 @@ R version 4.2 or higher.
 # Scripts descriptions
 - The file "HRS 01 Data Extraction.R" extract raw data from HRS survey databases for subsequent analysis.
 - The file "HRS 02 Data Cleaning.R" conduct data cleaning on the extracted datasets to generate clean, analysis-ready datasets.
-- The file "HRS 03 All-cause mortality.R", "HRS 03 Cardiovascular.R", "HRS 03 Disability.R", outline the methodology employed to process and analyze data related to different health outcomes in this project.
+- The file "HRS 03 Dementia.R", outline the methodology employed to process and analyze data related to dementia in this project.
 - The file "HRS 04 Sensitivity Analysis.R" conduct sensitivity analysis.
 - The file "HRS 05 Forest Plot.R" is designed to generate forest plots for model results.
